@@ -5,6 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+__pycache__/
+*.csv
+*.xlsx
+.DS_Store
+notebooks/.ipynb_checkpoints/
 
 # Distribution / packaging
 .Python
